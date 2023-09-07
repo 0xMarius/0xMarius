@@ -1,4 +1,6 @@
-### Hi there 👋
+### + System administration 🖥️
+### + Network & infrastructure 🛜
+### + Script kidding 👶
 
 <!--
 **0xMarius/0xMarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
